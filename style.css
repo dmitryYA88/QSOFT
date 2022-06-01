@@ -98,24 +98,45 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 .partners__content__item:hover {
     cursor: pointer;
     filter: drop-shadow(30px 10px 4px rgba(164, 164, 164, 0.3));
 }
-.partners__content__img116 {
+.partners__content__img-henkel {
     width: 116px;
     height: 64px;
+    background: url('images/Henkel.png') center no-repeat; 
 }
-.partners__content__img234 {
+.partners__content__img-john {
     width: 234px;
+    height: 44px;
+    background: url('images/John D.png') center no-repeat;
 }
-.partners__content__img85 {
+.partners__content__img-MD {
     width: 85px;
+    height: 64px;
+    background: url('images/MD.png') center no-repeat;
 }
-.partners__content__img122 {
+.partners__content__img-ikea {
+    width: 160px;
+    height: 64px;
+    background: url('images/Ikea.png') center no-repeat;
+}
+.partners__content__img-reebok {
+    width: 234px;
+    height: 48px;
+    background: url('images/Reebok.png') center no-repeat;
+}
+.partners__content__img-nike {
     width: 122px;
+    height: 64px;
+    background: url('images/Nike.png') center no-repeat;
+}
+.partners__content__img-caterpillar {
+    width: 234px;
+    height: 36px;
+    background: url('images/Caterpillar.png') center no-repeat;
 }
 
 
